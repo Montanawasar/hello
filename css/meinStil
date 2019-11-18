@@ -1,0 +1,13 @@
+body {
+background-color: lightgrey;
+}
+h1 {
+color: blue;
+}
+p {
+color: rgb(0, 150, 0);
+font-family: courier;
+font-size: 160%;
+border: 1px solid black;
+padding: 10px;
+}
